@@ -5,4 +5,3 @@ for (total; total < limit; total++){
   i += total;
 }
 console.log(i);
-Consloe.log(i);
